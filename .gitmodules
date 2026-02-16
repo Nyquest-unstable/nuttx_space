@@ -1,0 +1,6 @@
+[submodule "apps"]
+	path = apps
+	url = git@github.com:Nyquest-unstable/nuttx-apps.git
+[submodule "nuttx"]
+	path = nuttx
+	url = git@github.com:Nyquest-unstable/nuttx.git
